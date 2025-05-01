@@ -1,9 +1,9 @@
 local plugin = {}
 
-plugin["name"] = "Fishermans Friend"
+plugin["name"] = "Treasure Trove"
 plugin["version"] = "0.1"
 plugin["author"] = "HeftyHippo"
-plugin["description"] = "Fishing profession utility"
+plugin["description"] = "Treasure finding utility"
 plugin["load"] = true
 
 -- Ensure the script only loads when in-game
