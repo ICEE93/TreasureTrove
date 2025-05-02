@@ -1,6 +1,6 @@
 -- Add exact treasure object names gathered from Wowhead, addons, or in-game observation.
 -- This list is not exhaustive and can be expanded as needed.
-local treasure_names = {
+local treasures = {
 
     -- == Generic / Common Chest Names (Used across many zones/expansions) ==
     ["Treasure Chest"] = true,
@@ -131,4 +131,4 @@ local treasure_names = {
     -- Add many, many more specific names here...
 }
 
-return treasure_names
+return treasures
