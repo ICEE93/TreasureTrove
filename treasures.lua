@@ -27,6 +27,7 @@ local treasure_names = {
     ["Buried Treasure"] = true,
     ["Weathered Chest"] = true,
     ["Locked Chest"] = true,          -- May require lockpicking/key
+    ["Silken Treasure Chest"] = true, -- MoP specific type
 
     -- == Dragonflight ==
     ["Expedition Scout's Pack"] = true,
