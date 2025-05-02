@@ -38,7 +38,7 @@ end
 
 -- Render menu (Same as before)
 function treasure_finder:render_menu()
-    self.menu_elements.main_tree:render("Treasures Finder (Exact Names)", function() --
+    self.menu_elements.main_tree:render("Treasures Finder", function() --
         self.menu_elements.enable:render("Enable Finder", "Toggle the treasure finder") --
 
         if self.menu_elements.enable:get_state() then --
