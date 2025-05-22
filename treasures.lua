@@ -126,9 +126,24 @@ local treasures = {
     ["Bountiful Heavy Trunk"] = true, -- Delve reward
     ["Bountiful Coffer"] = true,      -- Delve reward (needs key)
     ["Hidden Trove"] = true,          -- Delve reward (needs key)
+    ["Mislaid Curiosity"] = true,
+    ["Sturdy Chest"] = true,
     ["Disturbed Earth"] = true,         -- Disturbed Earth treasure mounds
-
-    -- Add many, many more specific names here...
+    ["Arathi Treasure Hoard"] = true,           -- Arathi Treasure Hoard TWW
+    ["Shiny Trash Can"] = true,
+    ["Overflowing Dumpster"] = true,
+    ["Threadspun Cahce"] = true,
+    -- == Horriffic Visions == --
+    ["Corrupted Chest"] = true, -- Horrific Visions treasure
+    ["Spicy Potion"] = true, -- Horrific Visions treasure
+    ["Sluggish Potion"] = true, -- Horrific Visions treasure
+    ["Sickening Potion"] = true, -- Horrific Visions treasure
+    ["Vial of Mysterious Black Liquid"] = true, -- Horrific Visions treasure
+    ["Vial of Mysterious Green Liquid"] = true, -- Horrific Visions treasure
+    ["Vial of Mysterious Red Liquid"] = true, -- Horrific Visions treasure
+    ["Vial of Mysterious Blue Liquid"] = true, -- Horrific Visions treasure
+    ["Vial of Mysterious Purple Liquid"] = true, -- Horrific Visions treasure
+    ["Odd Crystal"] = true, -- Horrific Visions treasure
 }
 
 return treasures
